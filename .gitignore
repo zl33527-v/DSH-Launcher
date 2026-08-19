@@ -1,0 +1,16 @@
+# NodeJS安装包，不上传仓库
+node-v*.exe
+
+# 构建输出目录
+release-v*/
+*.zip
+*.7z
+
+# 临时、日志文件
+*.log
+*.tmp
+*.cache
+
+# 系统生成文件
+Thumbs.db
+.DS_Store
